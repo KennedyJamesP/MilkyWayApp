@@ -50,6 +50,7 @@ namespace MilkyWayApp
             };
             map.Click += (e, o) => {
                 Toast.MakeText(this, "Map Button Clicked", ToastLength.Short).Show();
+                StartActivity(typeof(Map));
             };
             camera.Click += (e, o) => {
                 Toast.MakeText(this, "Camera Button Clicked", ToastLength.Short).Show();

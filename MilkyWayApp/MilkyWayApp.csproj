@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="ImageAdapter.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Map.cs" />
     <Compile Include="MyGridViewAdapter.cs" />
     <Compile Include="MySimpleItem.cs" />
     <Compile Include="MySimpleItemLoader.cs" />
@@ -65,6 +66,9 @@
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\layout\Map.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">

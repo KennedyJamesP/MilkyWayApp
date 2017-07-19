@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>7/19/2017 1:26:30 AM</xs:documentation>
+    <xs:documentation>7/19/2017 2:30:59 AM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16858,7 +16858,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -19751,7 +19750,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -19833,7 +19831,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -19915,7 +19912,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -19997,7 +19993,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -20079,7 +20074,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -20401,7 +20395,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -20483,7 +20476,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -20565,7 +20557,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -20687,7 +20678,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -21211,7 +21201,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -21293,7 +21282,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -21375,7 +21363,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
@@ -21457,7 +21444,6 @@
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
             <xs:enumeration value="@id/profile" />
-            <xs:enumeration value="@id/tvDisplayName" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
