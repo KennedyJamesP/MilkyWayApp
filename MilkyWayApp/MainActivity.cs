@@ -54,6 +54,7 @@ namespace MilkyWayApp
             };
             camera.Click += (e, o) => {
                 Toast.MakeText(this, "Camera Button Clicked", ToastLength.Short).Show();
+                StartActivity(typeof(CameraActivity));
             };
             profile.Click += (e, o) => {
                 Toast.MakeText(this, "Profile Button Clicked", ToastLength.Short).Show();

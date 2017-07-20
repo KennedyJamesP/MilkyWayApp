@@ -34,3 +34,8 @@ C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\mygridviewcell.x
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quote.png
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quoted.jpg
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\map.xml
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\map.xml
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\camera.xml
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\mygridviewcell.xml
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quote.png
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quoted.jpg
